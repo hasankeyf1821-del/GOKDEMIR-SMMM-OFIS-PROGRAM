@@ -1,0 +1,1 @@
+{\n  "name": "gokdemir-smmm-ofis-program",\n  "version": "1.0.0",\n  "description": "A Node.js Express application",\n  "main": "server.js",\n  "scripts": {\n    "start": "node server.js"\n  },\n  "dependencies": {\n    "express": "^4.17.1",\n    "mongoose": "^5.10.9"\n  }\n}
